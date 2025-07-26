@@ -63,7 +63,7 @@ human-gov-infrastructure/
    ```bash
    git clone https://github.com/nazareno-jr/human-gov-infrastructure.git
    cd human-gov-infrastructure
-````
+   ```
 
 2. Configure suas credenciais AWS (via `aws configure` ou variáveis de ambiente)
 
@@ -102,9 +102,4 @@ Projeto open-source para estudos, testes e demonstrações em ambiente AWS.
 
 Este projeto está licenciado sob os termos da **MIT License**.
 
-```
-
----
-
-Se quiser, posso agora gerar o **diagrama da arquitetura** com estilo AWS, mostrando EC2, S3, DynamoDB e IAM por tenant. Posso fazer isso?
 ```
