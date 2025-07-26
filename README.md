@@ -101,5 +101,3 @@ Projeto open-source para estudos, testes e demonstrações em ambiente AWS.
 ## 🛡️ Licença
 
 Este projeto está licenciado sob os termos da **MIT License**.
-
-```
